@@ -7,8 +7,8 @@ plot(b)
 c<-rnorm(150)
 plot(c)
 
-#Como o teste anterior funcionou, fiquei feliz
+#Como o teste anterior funcionou, fiquei feliz #Push2
 print("Oba funcionou")
 
-#Essa aula está muito divertida
+#Essa aula está muito divertida #Push3
 print("------gitgnore----")
