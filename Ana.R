@@ -1,5 +1,7 @@
 a=2+2
 b=1
 a+b
-aaa
+leila = a+b
+j=60
+j+leila
 
