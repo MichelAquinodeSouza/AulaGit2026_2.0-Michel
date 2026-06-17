@@ -9,3 +9,6 @@ plot(c)
 
 #Como o teste anterior funcionou, fiquei feliz
 print("Oba funcionou")
+
+#Essa aula está muito divertida
+print("------gitgnore----")
